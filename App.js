@@ -40,7 +40,7 @@ class App extends Component {
       <div className='container container-fluid text-center'>
         <div className='main mt-5 p-4 rounded'>
           <h3 className='pt-3 px-4 text-info'>remind me schedule </h3>
-          <img src='./Notes-bro.png' />
+          <img src={note} alt="note img"/>
           <div className='inputBlock  text-center'>
             <input className='rounded my-2 p-2 bg-white border-0'
             
