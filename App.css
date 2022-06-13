@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-transform: capitalize;
+}
+.container{
+text-align: center;
+display: grid;
+place-items: center;
+}
+.container .main{
+    background-color: #fff;
+    box-shadow: 3px 3px 15px rgba(213, 208, 208, 0.8);
+    text-align: center;
+    min-height: 70vh;
+   
+}
+.container img{
+    width: 150px;
+}
+.container h1{
+
+}
+.container .inputBlock{
+text-align: center;
+width: 90%;
+margin-left: 5%;
+}
+.container .inputBlock input{
+    display: block;
+    width: 100%;
+    box-shadow: 3px 3px 15px rgba(213, 208, 208, 0.8);
+   
+    
+}
+.container .actionBlock{
+    width: 90%;
+    margin-left: 4%;
+
+}
+.container .actionBlock button{
+margin: 8px auto;
+display: block;
+width: 100%;
+}
