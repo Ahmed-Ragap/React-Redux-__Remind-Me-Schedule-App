@@ -5,9 +5,6 @@
 
 # __Details__
 
-### this website is about website development and design company project number { 2 }
-
-
 
 # tools I used  _________________________________
 
